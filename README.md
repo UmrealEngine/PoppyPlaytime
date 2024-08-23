@@ -1,6 +1,40 @@
-# https://github.com/puppyplaytime  
-A project to recreate the game 'Poppy Playtime'in Unreal Engine 5, resource-removed version  
-  
+# PoppyPlaytime
 [Final completed video ]   
 [![Video Label](http://img.youtube.com/vi/eEwfXJjpjDk/0.jpg)](https://youtu.be/eEwfXJjpjDk)  
 https://youtu.be/eEwfXJjpjDk?si=FWD7N10K3sSAmHhx
+
+
+![1](https://github.com/user-attachments/assets/4e9e11b7-a25a-48af-976c-b196d76b7f3a)
+![2](https://github.com/user-attachments/assets/807c5f8f-a134-450b-a9fb-656d66d6086f)
+![3](https://github.com/user-attachments/assets/596bc487-e0f6-4f6d-b02e-ee61dcfd83d0)
+![4](https://github.com/user-attachments/assets/3094b657-f4ed-4f4d-b08f-3b9234f0816d)
+![5](https://github.com/user-attachments/assets/563672bc-c698-428d-a6d8-f3af390a771b)
+![6](https://github.com/user-attachments/assets/2eb61f4c-0cfb-49d1-bc5f-22d2ed8edbcf)
+![7](https://github.com/user-attachments/assets/87e90cc8-6672-476f-997e-4ba3eb32c894)
+![6-2](https://github.com/user-attachments/assets/f62aeff6-a1d8-403b-8f22-773a5b52d34b)
+![8](https://github.com/user-attachments/assets/e6b43d87-873f-47b0-af5e-dbda753e7be8)
+![9](https://github.com/user-attachments/assets/228d5a6f-a8b8-452b-8231-14f896e20702)
+![10](https://github.com/user-attachments/assets/f4c3868b-865c-46e5-88f6-b9f111f065c6)
+![11](https://github.com/user-attachments/assets/5885e174-8c81-498b-ad60-64db7a4b75a5)
+![12](https://github.com/user-attachments/assets/b37bf3fb-23dc-4185-8477-6694b927f852)
+![13](https://github.com/user-attachments/assets/377b3581-0791-4b50-b1b3-2ee9f70a99f6)
+![14](https://github.com/user-attachments/assets/dbb938d6-b385-4bc9-85c8-f27e7811e7c9)
+![15](https://github.com/user-attachments/assets/0e2fbda5-f806-4c48-acaa-9e08e238c273)
+![15-1](https://github.com/user-attachments/assets/43f4c462-fc6f-4483-8179-26dd797741a7)
+![15-2](https://github.com/user-attachments/assets/38d79851-1741-42aa-aa32-21a230732a0f)
+![15-3](https://github.com/user-attachments/assets/ff002e04-897c-4022-8e5d-c1b7c99e0c3b)
+![15-4](https://github.com/user-attachments/assets/4448614e-0e53-49c3-bd98-9b75a576955e)
+![15-5](https://github.com/user-attachments/assets/523214e3-d525-4695-b04a-f920a7b39b4e)
+![15-6](https://github.com/user-attachments/assets/3f81fa1f-dc90-4d3c-822d-c967abec9a3b)
+![16](https://github.com/user-attachments/assets/77ecd9d6-a2cb-4423-9633-3a037e56770b)
+![16-1](https://github.com/user-attachments/assets/0f44fe84-0e43-4b27-a2b1-a81807552804)
+![17](https://github.com/user-attachments/assets/becff71c-2695-4193-81f4-73811f56ceec)
+![18](https://github.com/user-attachments/assets/f1808bf1-20d5-4e81-b568-0cfd0ccc01ae)
+![19](https://github.com/user-attachments/assets/0a316386-d5b0-40b8-8c8a-9ff3294324d2)
+![19-1](https://github.com/user-attachments/assets/73c24bef-da50-4542-82f5-2db5922db52f)
+![20](https://github.com/user-attachments/assets/9f814b7a-8f46-4e86-8aa0-954a42ab2ca8)
+![21](https://github.com/user-attachments/assets/031a1e3e-581b-4782-a2c7-7a605b099fb6)
+![22](https://github.com/user-attachments/assets/39bc8a35-9c6b-4945-9814-64536608da98)
+![23](https://github.com/user-attachments/assets/9fce8b4a-c5cc-4200-b9e8-181ccc7de4fc)
+![24](https://github.com/user-attachments/assets/49b81af1-b099-4f61-8a80-8c9a62eeb27f)
+![25](https://github.com/user-attachments/assets/4d890f7f-0eeb-47f8-b9f1-95c2ef6f603b)
